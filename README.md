@@ -11,14 +11,14 @@
 * vue
 * react
 
-   以下是一串代码
-    <body>
-
-        function f(){
+   这是多行代码
+    ```
+    function f(){
         console.log('hello world')
         }
         f()
-    </body>
+   ```
+    这是一行代码 `var a=1`
 
     ![这是一张图片](1.jpeg)
        这是我的第一个博客[我的网站](https://github.com/MoniTang/blog-test)
